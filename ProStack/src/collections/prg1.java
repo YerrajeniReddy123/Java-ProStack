@@ -20,7 +20,8 @@ public class prg1 {
 		
 		System.out.println(enames.get(3)); //to read the element value
 	//	System.out.println(enames.set(0, "Rahul Gandhi"));
-		enames.set(0, "Rahul Gandhi");
+		
+		enames.set(0, "Rahul Gandhi"); //to update the value
 		System.out.println(enames);
 	}
 
